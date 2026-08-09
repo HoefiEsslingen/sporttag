@@ -102430,7 +102430,7 @@ q=A.cE(A.cq(q,B.em,B.x,B.L),2)
 o=A.b([],p)
 n=k.x
 if(n!=null){k.as=k.y.c?"Fuenfkampf":"Zehnkampf"
-m=k.at="https://hoefiesslingen.github.io/#/wettbewerb/"+A.k(n)
+m=k.at="https://hoefiesslingen.github.io/sporttag/#/wettbewerb/"+A.k(n)
 l=k.as==="Fuenfkampf"?5:10
 B.b.O(o,A.b([new A.E6(m,-1,200,j),B.ci,A.jr(A.aP("Riege Nr. "+A.k(n)+"\n"+l+" Disziplinen",j,j,j,B.e3,j,j),new A.anU(k,a),j)],p))}return A.dI(s,A.dg(A.cq(A.b([new A.bp(B.et,r,j),A.cE(new A.bp(B.r_,A.eZ(A.b([q,A.cE(A.cq(o,B.v,B.dk,B.L),1)],p),B.v,B.x,B.L,0),j),1)],p),B.v,B.x,B.L),j,j))}}
 A.anP.prototype={
