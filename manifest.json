@@ -1,7 +1,7 @@
 {
     "name": "sporttag",
     "short_name": "sporttag",
-    "start_url": ".",
+    "start_url": "/sporttag/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
