@@ -33,6 +33,17 @@
   <!-- Auskommentiert, damit per PWA-Verfahren iOS-Icons für jede Riege erstellt werden können
   <link rel="manifest" href="manifest.json">
    -->
+<script>
+  (function() {
+    var match = window.location.hash.match(/#\/wettbewerb\/(\d+)/);
+    var manifestDatei = match ? 'manifest-riege-' + match[1] + '.json' : 'manifest.json';
+
+    var link = document.createElement('link');
+    link.rel = 'manifest';
+    link.href = manifestDatei;
+    document.head.appendChild(link);
+  })();
+</script>  
 
 </head>
 <body>
