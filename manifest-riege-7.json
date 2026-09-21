@@ -1,12 +1,12 @@
 {
-    "name": "Sporttag – Riege 5",
-    "short_name": "Riege 5",
-    "start_url": "/sporttag/#/wettbewerb/5",
+    "name": "Sporttag – Riege 7",
+    "short_name": "Riege 7",
+    "start_url": "/sporttag/#/wettbewerb/7",
     "scope": "/sporttag/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Sporttag-Wettbewerb für Riege 5",
+    "description": "Sporttag-Wettbewerb für Riege 7",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
