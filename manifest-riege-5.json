@@ -2,7 +2,6 @@
     "name": "Sporttag – Riege 5",
     "short_name": "Riege 5",
     "start_url": "/sporttag/#/wettbewerb/5",
-    "scope": "/sporttag/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
